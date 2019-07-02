@@ -18,29 +18,31 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
+title: "Nicolas R. minimalist personal website"
+description: "atoomic personal website ℕicolas ℝ. atoomic.org"
+keywords: "atoomic, nicolas, perl, compiler, developer"
+url: http://atoomic.org
 baseurl: "/end2end"
 
-google_analytics: UA-52446115-1
+google_analytics: 
 repo: http://github.com/nandomoreirame/end2end
 disqus_shortname: "nandothemes"
 disqus_site_shortname: "nandothemes"
 
+# meta::cpan -> https://metacpan.org/author/ATOOMIC
+# blog -> http://blogs.perl.org/users/atoomic/
 # Author settings
 author:
-  name: Fernando Moreira
-  job: Frontend Engineer
-  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name: "ℕicolas ℝ."
+  job: Backend Engineer at cPanel
+  bio: "A 🇫🇷/🇺🇸 living in the USA: enthusiast, dynamic, versatile, creative & curious."
   thumb: /images/author.jpg
-  email: nandomoreira.me@gmail.com
-  url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
-  twitter: https://twitter.com/umdevux
-  facebook: https://facebook.com/umdevux
-  linkedin: https://linkedin.com/in/nandomoreirame
+  email: nicolas@atoomic.org
+  url: https://atoomic.org/
+  github: https://github.com/atoomic
+  twitter: https://twitter.com/atoomic
+  facebook: 
+  linkedin: 
 
 # navbar pages
 navbar:
